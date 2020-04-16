@@ -1,0 +1,1193 @@
+['20191022', '20191023', '20191024', '20191025', '20191026', '20191027', '20191028', '20191029', '20191030', '20191031']
+20191022접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946717&date=20191022&type=2&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 9,360
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003481622&date=20191022&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 9,085
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003248446&date=20191022&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 8,182
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946806&date=20191022&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 3,535
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946814&date=20191022&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 3,667
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003407526&date=20191022&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 790
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946649&date=20191022&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 1,520
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222359&date=20191022&type=2&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 4,004
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003248596&date=20191022&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 4,095
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000432925&date=20191022&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 286
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003407535&date=20191022&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 2,720
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001356906&date=20191022&type=2&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+12  번째 완료! 결과는 2,499
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003481675&date=20191022&type=1&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+13  번째 완료! 결과는 485
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=047&aid=0002244274&date=20191022&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+14  번째 완료! 결과는 1,244
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=018&aid=0004497391&date=20191022&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+15  번째 완료! 결과는 4,679
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946789&date=20191022&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+16  번째 완료! 결과는 878
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946678&date=20191022&type=2&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+17  번째 완료! 결과는 10,335
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=047&aid=0002244275&date=20191022&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+18  번째 완료! 결과는 1,021
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=055&aid=0000766830&date=20191022&type=2&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+19  번째 완료! 결과는 1,644
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003481494&date=20191022&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+20  번째 완료! 결과는 9,327
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003037456&date=20191022&type=1&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+21  번째 완료! 결과는 3,236
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011160774&date=20191022&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+22  번째 완료! 결과는 1,168
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003481603&date=20191022&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+23  번째 완료! 결과는 8,078
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011159651&date=20191022&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+24  번째 완료! 결과는 4,704
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=421&aid=0004262379&date=20191022&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+25  번째 완료! 결과는 605
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=018&aid=0004497747&date=20191022&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+26  번째 완료! 결과는 582
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001251384&date=20191022&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+27  번째 완료! 결과는 1,597
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=047&aid=0002244273&date=20191022&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+28  번째 완료! 결과는 1,238
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003481666&date=20191022&type=1&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+29  번째 완료! 결과는 2,619
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001251466&date=20191022&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+30  번째 완료! 결과는 1,607
+Hate cnt
+9360
+9085
+8182
+3535
+3667
+790
+1520
+4004
+4095
+286
+2720
+2499
+485
+1244
+4679
+878
+10335
+1021
+1644
+9327
+3236
+1168
+8078
+4704
+605
+582
+1597
+1238
+2619
+1607
+20191023접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947025&date=20191023&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 1,799
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011162998&date=20191023&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 4,093
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947137&date=20191023&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 6,597
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003407875&date=20191023&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 4,357
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947022&date=20191023&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 1,250
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003481906&date=20191023&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 11,389
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003481830&date=20191023&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 5,605
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947066&date=20191023&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 2,032
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001251907&date=20191023&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 6,059
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001251695&date=20191023&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 1,572
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011161514&date=20191023&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 2,589
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946982&date=20191023&type=1&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+12  번째 완료! 결과는 2,157
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=011&aid=0003638771&date=20191023&type=1&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+13  번째 완료! 결과는 2,500
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472205&date=20191023&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+14  번째 완료! 결과는 1,594
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003407905&date=20191023&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+15  번째 완료! 결과는 2,224
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=015&aid=0004228574&date=20191023&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+16  번째 완료! 결과는 835
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002946839&date=20191023&type=1&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+17  번째 완료! 결과는 269
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001357051&date=20191023&type=2&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+18  번째 완료! 결과는 6,283
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=015&aid=0004228054&date=20191023&type=1&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+19  번째 완료! 결과는 994
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=003&aid=0009519943&date=20191023&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+20  번째 완료! 결과는 761
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222498&date=20191023&type=2&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+21  번째 완료! 결과는 550
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002970134&date=20191023&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+22  번째 완료! 결과는 818
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011161649&date=20191023&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+23  번째 완료! 결과는 558
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003248768&date=20191023&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+24  번째 완료! 결과는 1,794
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011161441&date=20191023&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+25  번째 완료! 결과는 3,212
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=277&aid=0004558147&date=20191023&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+26  번째 완료! 결과는 720
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472215&date=20191023&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+27  번째 완료! 결과는 686
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001251834&date=20191023&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+28  번째 완료! 결과는 55
+Hate cnt
+1799
+4093
+6597
+4357
+1250
+11389
+5605
+2032
+6059
+1572
+2589
+2157
+2500
+1594
+2224
+835
+269
+6283
+994
+761
+550
+818
+558
+1794
+3212
+720
+686
+55
+20191024접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482048&date=20191024&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 2,023
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002970483&date=20191024&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 395
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011165792&date=20191024&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 270
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947471&date=20191024&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 6,157
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=056&aid=0010756276&date=20191024&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 443
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003248960&date=20191024&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 64
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003248967&date=20191024&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 140
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947388&date=20191024&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 3,688
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947370&date=20191024&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 2,259
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947335&date=20191024&type=2&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 799
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011164818&date=20191024&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 165
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=047&aid=0002244538&date=20191024&type=1&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+12  번째 완료! 결과는 164
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222631&date=20191024&type=2&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+13  번째 완료! 결과는 4,411
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472378&date=20191024&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+14  번째 완료! 결과는 131
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947249&date=20191024&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+15  번째 완료! 결과는 6,926
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003038278&date=20191024&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+16  번째 완료! 결과는 137
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001252087&date=20191024&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+17  번째 완료! 결과는 259
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222649&date=20191024&type=2&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+18  번째 완료! 결과는 1,817
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=016&aid=0001593937&date=20191024&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+19  번째 완료! 결과는 840
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222566&date=20191024&type=2&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+20  번째 완료! 결과는 212
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=056&aid=0010756422&date=20191024&type=2&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+21  번째 완료! 결과는 597
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=079&aid=0003283657&date=20191024&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+22  번째 완료! 결과는 669
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003038375&date=20191024&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+23  번째 완료! 결과는 1,218
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947257&date=20191024&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+24  번째 완료! 결과는 96
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003408300&date=20191024&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+25  번째 완료! 결과는 520
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=008&aid=0004297874&date=20191024&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+26  번째 완료! 결과는 347
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000433671&date=20191024&type=1&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+27  번째 완료! 결과는 561
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=009&aid=0004450891&date=20191024&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+28  번째 완료! 결과는 837
+Hate cnt
+2023
+395
+270
+6157
+443
+64
+140
+3688
+2259
+799
+165
+164
+4411
+131
+6926
+137
+259
+1817
+840
+212
+597
+669
+1218
+96
+520
+347
+561
+837
+20191025접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947606&date=20191025&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 5,971
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482520&date=20191025&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 192
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947625&date=20191025&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 2,347
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000434168&date=20191025&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 4,267
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=079&aid=0003283914&date=20191025&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 857
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=011&aid=0003640140&date=20191025&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 162
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947666&date=20191025&type=2&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 4,972
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003408619&date=20191025&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 2,004
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003038695&date=20191025&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 2,100
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001357927&date=20191025&type=2&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 487
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482474&date=20191025&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 296
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002970704&date=20191025&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+12  번째 완료! 결과는 814
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=011&aid=0003640374&date=20191025&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+13  번째 완료! 결과는 1,907
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001252757&date=20191025&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+14  번째 완료! 결과는 1,323
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222728&date=20191025&type=2&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+15  번째 완료! 결과는 285
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001252552&date=20191025&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+16  번째 완료! 결과는 800
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=449&aid=0000180040&date=20191025&type=2&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+17  번째 완료! 결과는 2,830
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011168590&date=20191025&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+18  번째 완료! 결과는 950
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249168&date=20191025&type=1&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+19  번째 완료! 결과는 6,256
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001358055&date=20191025&type=2&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+20  번째 완료! 결과는 551
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482487&date=20191025&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+21  번째 완료! 결과는 10,756
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947760&date=20191025&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+22  번째 완료! 결과는 105
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249355&date=20191025&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+23  번째 완료! 결과는 25
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947471&date=20191025&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+24  번째 완료! 결과는 6,157
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=056&aid=0010756700&date=20191025&type=2&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+25  번째 완료! 결과는 498
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011169268&date=20191025&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+26  번째 완료! 결과는 1,445
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947578&date=20191025&type=1&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+27  번째 완료! 결과는 1,410
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472602&date=20191025&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+28  번째 완료! 결과는 347
+Hate cnt
+5971
+192
+2347
+4267
+857
+162
+4972
+2004
+2100
+487
+296
+814
+1907
+1323
+285
+800
+2830
+950
+6256
+551
+10756
+105
+25
+6157
+498
+1445
+1410
+347
+20191026접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482540&date=20191026&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 204
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482655&date=20191026&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 27,227
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003408867&date=20191026&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 4,030
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947789&date=20191026&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 1,015
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472602&date=20191026&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 347
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249420&date=20191026&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 3,936
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947826&date=20191026&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 7,227
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482667&date=20191026&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 10,751
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947863&date=20191026&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 5,949
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249436&date=20191026&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 5,779
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=056&aid=0010757160&date=20191026&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 804
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011170430&date=20191026&type=1&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+12  번째 완료! 결과는 642
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003408889&date=20191026&type=1&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+13  번째 완료! 결과는 2,623
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249473&date=20191026&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+14  번째 완료! 결과는 859
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003038747&date=20191026&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+15  번째 완료! 결과는 743
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=006&aid=0000099401&date=20191026&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+16  번째 완료! 결과는 2,533
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947794&date=20191026&type=1&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+17  번째 완료! 결과는 2,186
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001252838&date=20191026&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+18  번째 완료! 결과는 1,533
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=018&aid=0004501286&date=20191026&type=1&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+19  번째 완료! 결과는 681
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001358440&date=20191026&type=2&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+20  번째 완료! 결과는 408
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249407&date=20191026&type=1&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+21  번째 완료! 결과는 15
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002970813&date=20191026&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+22  번째 완료! 결과는 1,011
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=449&aid=0000180089&date=20191026&type=2&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+23  번째 완료! 결과는 1,113
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003408864&date=20191026&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+24  번째 완료! 결과는 3,317
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=057&aid=0001391189&date=20191026&type=2&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+25  번째 완료! 결과는 554
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=008&aid=0004298887&date=20191026&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+26  번째 완료! 결과는 5
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222758&date=20191026&type=2&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+27  번째 완료! 결과는 1,110
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=003&aid=0009526419&date=20191026&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+28  번째 완료! 결과는 894
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001252900&date=20191026&type=1&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+29  번째 완료! 결과는 434
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482669&date=20191026&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+30  번째 완료! 결과는 2,517
+Hate cnt
+204
+27227
+4030
+1015
+347
+3936
+7227
+10751
+5949
+5779
+804
+642
+2623
+859
+743
+2533
+2186
+1533
+681
+408
+15
+1011
+1113
+3317
+554
+5
+1110
+894
+434
+2517
+20191027접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003408945&date=20191027&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+1  번째 완료! 결과는 1,453
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482708&date=20191027&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+2  번째 완료! 결과는 342
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482677&date=20191027&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+3  번째 완료! 결과는 3,838
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003038820&date=20191027&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+4  번째 완료! 결과는 1,020
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947988&date=20191027&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+5  번째 완료! 결과는 13,481
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003038838&date=20191027&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+6  번째 완료! 결과는 5,620
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482692&date=20191027&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+7  번째 완료! 결과는 74
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482699&date=20191027&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+8  번째 완료! 결과는 8,898
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482706&date=20191027&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+9  번째 완료! 결과는 27
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001252962&date=20191027&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+10  번째 완료! 결과는 1,570
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482698&date=20191027&type=1&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+11  번째 완료! 결과는 38
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472638&date=20191027&type=1&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+12  번째 완료! 결과는 1,121
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=047&aid=0002244820&date=20191027&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+13  번째 완료! 결과는 921
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947963&date=20191027&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+14  번째 완료! 결과는 24
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222801&date=20191027&type=2&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+15  번째 완료! 결과는 1,486
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=009&aid=0004452172&date=20191027&type=1&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+16  번째 완료! 결과는 9,980
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249482&date=20191027&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+17  번째 완료! 결과는 725
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947987&date=20191027&type=1&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+18  번째 완료! 결과는 270
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011171379&date=20191027&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+19  번째 완료! 결과는 20
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002947971&date=20191027&type=1&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+20  번째 완료! 결과는 166
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=047&aid=0002244797&date=20191027&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+21  번째 완료! 결과는 3,548
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=021&aid=0002406376&date=20191027&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+22  번째 완료! 결과는 3,341
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482680&date=20191027&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+23  번째 완료! 결과는 41
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000434397&date=20191027&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+24  번째 완료! 결과는 405
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011172248&date=20191027&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+25  번째 완료! 결과는 992
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472602&date=20191027&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+26  번째 완료! 결과는 347
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=020&aid=0003249420&date=20191027&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+27  번째 완료! 결과는 3,936
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=119&aid=0002360318&date=20191027&type=1&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+28  번째 완료! 결과는 818
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=449&aid=0000180089&date=20191027&type=2&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+29  번째 완료! 결과는 1,113
+Hate cnt
+1453
+342
+3838
+1020
+13481
+5620
+74
+8898
+27
+1570
+38
+1121
+921
+24
+1486
+9980
+725
+270
+20
+166
+3548
+3341
+41
+405
+992
+347
+3936
+818
+1113
+20191028접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948095&date=20191028&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 12,245
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948214&date=20191028&type=2&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 3,228
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482906&date=20191028&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 915
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003409300&date=20191028&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 1,308
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482727&date=20191028&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 4,189
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001253105&date=20191028&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 338
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948094&date=20191028&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 137
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948289&date=20191028&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 1,083
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011173916&date=20191028&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 1,031
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472700&date=20191028&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 1,363
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001253208&date=20191028&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 955
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948221&date=20191028&type=1&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+12  번째 완료! 결과는 956
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002971176&date=20191028&type=1&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+13  번째 완료! 결과는 1,372
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011172276&date=20191028&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+14  번째 완료! 결과는 10
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472746&date=20191028&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+15  번째 완료! 결과는 2,189
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003482791&date=20191028&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+16  번째 완료! 결과는 974
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003409317&date=20191028&type=1&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+17  번째 완료! 결과는 613
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222810&date=20191028&type=2&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+18  번째 완료! 결과는 5,744
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011172368&date=20191028&type=1&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+19  번째 완료! 결과는 14
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011172422&date=20191028&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+20  번째 완료! 결과는 4,601
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011174277&date=20191028&type=1&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+21  번째 완료! 결과는 3,168
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948308&date=20191028&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+22  번째 완료! 결과는 174
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=003&aid=0009529297&date=20191028&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+23  번째 완료! 결과는 844
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000434584&date=20191028&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+24  번째 완료! 결과는 1,162
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=277&aid=0004561563&date=20191028&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+25  번째 완료! 결과는 4,771
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002971072&date=20191028&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+26  번째 완료! 결과는 1,961
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=421&aid=0004274045&date=20191028&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+27  번째 완료! 결과는 685
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011174261&date=20191028&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+28  번째 완료! 결과는 797
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948244&date=20191028&type=2&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+29  번째 완료! 결과는 141
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003038920&date=20191028&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+30  번째 완료! 결과는 3,739
+Hate cnt
+12245
+3228
+915
+1308
+4189
+338
+137
+1083
+1031
+1363
+955
+956
+1372
+10
+2189
+974
+613
+5744
+14
+4601
+3168
+174
+844
+1162
+4771
+1961
+685
+797
+141
+3739
+20191029접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948459&date=20191029&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 3,728
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011176838&date=20191029&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 109
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472966&date=20191029&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 127
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=449&aid=0000180227&date=20191029&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 101
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948609&date=20191029&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 4,805
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001253708&date=20191029&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 2,596
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=016&aid=0001595886&date=20191029&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 287
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948540&date=20191029&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 1,736
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=014&aid=0004318301&date=20191029&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 1,614
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011174652&date=20191029&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 4,738
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=011&aid=0003642170&date=20191029&type=1&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+11  번째 완료! 결과는 230
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222970&date=20191029&type=2&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+12  번째 완료! 결과는 1,366
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948660&date=20191029&type=2&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+13  번째 완료! 결과는 396
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=437&aid=0000222932&date=20191029&type=2&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+14  번째 완료! 결과는 803
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011175043&date=20191029&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+15  번째 완료! 결과는 1,505
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003409729&date=20191029&type=1&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+16  번째 완료! 결과는 40
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948561&date=20191029&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+17  번째 완료! 결과는 4,672
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003039199&date=20191029&type=1&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+18  번째 완료! 결과는 1,206
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002472882&date=20191029&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+19  번째 완료! 결과는 103
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003039202&date=20191029&type=1&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+20  번째 완료! 결과는 850
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002971517&date=20191029&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+21  번째 완료! 결과는 57
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000434902&date=20191029&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+22  번째 완료! 결과는 143
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948516&date=20191029&type=2&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+23  번째 완료! 결과는 420
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001253709&date=20191029&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+24  번째 완료! 결과는 2,268
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948641&date=20191029&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+25  번째 완료! 결과는 2,258
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=009&aid=0004453332&date=20191029&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+26  번째 완료! 결과는 609
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000435226&date=20191029&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+27  번째 완료! 결과는 20
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001253876&date=20191029&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+28  번째 완료! 결과는 111
+Hate cnt
+3728
+109
+127
+101
+4805
+2596
+287
+1736
+1614
+4738
+230
+1366
+396
+803
+1505
+40
+4672
+1206
+103
+850
+57
+143
+420
+2268
+2258
+609
+20
+111
+20191030접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948932&date=20191030&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 2,126
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948790&date=20191030&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 4,878
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001254015&date=20191030&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 2,956
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948887&date=20191030&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 298
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002949023&date=20191030&type=2&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 783
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011179362&date=20191030&type=1&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 1,074
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948910&date=20191030&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 667
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011179208&date=20191030&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 448
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003409930&date=20191030&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 131
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002971741&date=20191030&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 1,250
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948855&date=20191030&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 199
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003483476&date=20191030&type=1&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+12  번째 완료! 결과는 4,948
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011178675&date=20191030&type=1&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+13  번째 완료! 결과는 4,836
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001359610&date=20191030&type=2&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+14  번째 완료! 결과는 1,173
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011177023&date=20191030&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+15  번째 완료! 결과는 454
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948902&date=20191030&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+16  번째 완료! 결과는 11,312
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948820&date=20191030&type=1&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+17  번째 완료! 결과는 410
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=011&aid=0003643283&date=20191030&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+18  번째 완료! 결과는 3,003
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=032&aid=0002971633&date=20191030&type=1&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+19  번째 완료! 결과는 1,596
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948889&date=20191030&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+20  번째 완료! 결과는 1,526
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=214&aid=0000989824&date=20191030&type=2&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+21  번째 완료! 결과는 843
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948908&date=20191030&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+22  번째 완료! 결과는 1,638
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003483467&date=20191030&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+23  번째 완료! 결과는 5,874
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001359652&date=20191030&type=2&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+24  번째 완료! 결과는 3,157
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001253961&date=20191030&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+25  번째 완료! 결과는 1,711
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003483410&date=20191030&type=1&rankingSectionId=100&rankingSeq=26
+뉴스 url 접속 성공
+26  번째 완료! 결과는 28
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000435354&date=20191030&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+27  번째 완료! 결과는 712
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=028&aid=0002473003&date=20191030&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+28  번째 완료! 결과는 573
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002948834&date=20191030&type=1&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+29  번째 완료! 결과는 552
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=011&aid=0003643258&date=20191030&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+30  번째 완료! 결과는 788
+Hate cnt
+2126
+4878
+2956
+298
+783
+1074
+667
+448
+131
+1250
+199
+4948
+4836
+1173
+454
+11312
+410
+3003
+1596
+1526
+843
+1638
+5874
+3157
+1711
+28
+712
+573
+552
+788
+20191031접속...
+top url 접속
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002949241&date=20191031&type=1&rankingSectionId=100&rankingSeq=1
+뉴스 url 접속 성공
+1  번째 완료! 결과는 4,230
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003483546&date=20191031&type=1&rankingSectionId=100&rankingSeq=2
+뉴스 url 접속 성공
+2  번째 완료! 결과는 12,487
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011181341&date=20191031&type=1&rankingSectionId=100&rankingSeq=3
+뉴스 url 접속 성공
+3  번째 완료! 결과는 2,844
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003483771&date=20191031&type=1&rankingSectionId=100&rankingSeq=4
+뉴스 url 접속 성공
+4  번째 완료! 결과는 170
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011182100&date=20191031&type=1&rankingSectionId=100&rankingSeq=5
+뉴스 url 접속 성공
+5  번째 완료! 결과는 2,854
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002949348&date=20191031&type=2&rankingSectionId=100&rankingSeq=6
+뉴스 url 접속 성공
+6  번째 완료! 결과는 782
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002949352&date=20191031&type=1&rankingSectionId=100&rankingSeq=7
+뉴스 url 접속 성공
+7  번째 완료! 결과는 247
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=047&aid=0002245269&date=20191031&type=1&rankingSectionId=100&rankingSeq=8
+뉴스 url 접속 성공
+8  번째 완료! 결과는 1,778
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=011&aid=0003643431&date=20191031&type=1&rankingSectionId=100&rankingSeq=9
+뉴스 url 접속 성공
+9  번째 완료! 결과는 635
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002949193&date=20191031&type=1&rankingSectionId=100&rankingSeq=10
+뉴스 url 접속 성공
+10  번째 완료! 결과는 2,734
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011180893&date=20191031&type=1&rankingSectionId=100&rankingSeq=11
+뉴스 url 접속 성공
+11  번째 완료! 결과는 568
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002949293&date=20191031&type=2&rankingSectionId=100&rankingSeq=12
+뉴스 url 접속 성공
+12  번째 완료! 결과는 664
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=025&aid=0002949322&date=20191031&type=1&rankingSectionId=100&rankingSeq=13
+뉴스 url 접속 성공
+13  번째 완료! 결과는 3,193
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011181399&date=20191031&type=1&rankingSectionId=100&rankingSeq=14
+뉴스 url 접속 성공
+14  번째 완료! 결과는 599
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001254673&date=20191031&type=1&rankingSectionId=100&rankingSeq=15
+뉴스 url 접속 성공
+15  번째 완료! 결과는 928
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011181795&date=20191031&type=1&rankingSectionId=100&rankingSeq=16
+뉴스 url 접속 성공
+16  번째 완료! 결과는 3,908
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=055&aid=0000768991&date=20191031&type=1&rankingSectionId=100&rankingSeq=17
+뉴스 url 접속 성공
+17  번째 완료! 결과는 899
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011181686&date=20191031&type=1&rankingSectionId=100&rankingSeq=18
+뉴스 url 접속 성공
+18  번째 완료! 결과는 625
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=081&aid=0003039991&date=20191031&type=1&rankingSectionId=100&rankingSeq=19
+뉴스 url 접속 성공
+19  번째 완료! 결과는 509
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003483549&date=20191031&type=1&rankingSectionId=100&rankingSeq=20
+뉴스 url 접속 성공
+20  번째 완료! 결과는 57
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=469&aid=0000436033&date=20191031&type=1&rankingSectionId=100&rankingSeq=21
+뉴스 url 접속 성공
+21  번째 완료! 결과는 3,235
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=449&aid=0000180370&date=20191031&type=1&rankingSectionId=100&rankingSeq=22
+뉴스 url 접속 성공
+22  번째 완료! 결과는 729
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=421&aid=0004280692&date=20191031&type=1&rankingSectionId=100&rankingSeq=23
+뉴스 url 접속 성공
+23  번째 완료! 결과는 206
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=023&aid=0003483789&date=20191031&type=1&rankingSectionId=100&rankingSeq=24
+뉴스 url 접속 성공
+24  번째 완료! 결과는 2,997
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=001&aid=0011182594&date=20191031&type=1&rankingSectionId=100&rankingSeq=25
+뉴스 url 접속 성공
+25  번째 완료! 결과는 796
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=005&aid=0001254390&date=20191031&type=1&rankingSectionId=100&rankingSeq=27
+뉴스 url 접속 성공
+26  번째 완료! 결과는 304
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003410332&date=20191031&type=1&rankingSectionId=100&rankingSeq=28
+뉴스 url 접속 성공
+27  번째 완료! 결과는 4,265
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=052&aid=0001360435&date=20191031&type=2&rankingSectionId=100&rankingSeq=29
+뉴스 url 접속 성공
+28  번째 완료! 결과는 241
+https://news.naver.com/main/ranking/read.nhn?rankingType=popular_day&oid=022&aid=0003410466&date=20191031&type=1&rankingSectionId=100&rankingSeq=30
+뉴스 url 접속 성공
+29  번째 완료! 결과는 229
+Hate cnt
+4230
+12487
+2844
+170
+2854
+782
+247
+1778
+635
+2734
+568
+664
+3193
+599
+928
+3908
+899
+625
+509
+57
+3235
+729
+206
+2997
+796
+304
+4265
+241
+229
+조사 기간20191022 ~ 20191031
+['20191022, 104790', '20191023, 73352', '20191024, 36145', '20191025, 60114', '20191026, 90447', '20191027, 65615', '20191028, 60707', '20191029, 36898', '20191030, 59944', '20191031, 53713']
