@@ -25,7 +25,7 @@ class NewsParser:
         print("top url 접속")
         html = urllib.request.urlopen(self.startUrl)
         bsHtml = bs4.BeautifulSoup(html, "html.parser")
-        topUrls = (bsHtml.findAll("div", {"class":"ranking_thumb"}))
+        topUrls = (bsHtml.findAll("div", {"find_element_by_class_name":"ranking_thumb"}))
         for i in topUrls:
             tempStr = str(i)
             tempList = tempStr.split('"')
@@ -39,6 +39,7 @@ class NewsParser:
         #temp
         i = 0
         options = Options()
+        # 필요 없는 부분 제외시키기
         prefs = {'profile.default_content_setting_values': {'cookies' : 2, 'images': 2, 'plugins' : 2, 
         'popups': 2, 'geolocation': 2, 'notifications' : 2, 'auto_select_certificate': 2, 'fullscreen'
          : 2, 'mouselock' : 2, 'mixed_script': 2, 'media_stream' : 2, 'media_stream_mic' : 2, 
@@ -75,7 +76,7 @@ class NewsParser:
             print(e)
         driver.close()
         
-        
+         
     #brief: Display All Record
     def DisplayRecord(self):
         print("Hate cnt")
